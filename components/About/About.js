@@ -8,14 +8,14 @@ const About = () => {
             <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
                 <div className="lg:px-4 lg:mt-12 ">
                     <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-                        Buenas!
+                        Hi!
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
                         <p className="mb-4">
-                            Soy Agustin y soy desarrollador JR y freelancer. Este es mi portafolio web!
-                            Este mismo esta hecho con NextJS; un framework de ReactJS que emplea html+css y javascript
-                            Tambien estoy usando Tailwind, un "frame" de css para dejar las cosas tan bonitas como las ves. Y como curiosidad,
-                            esta pagina utilizara el tema (claro o oscuro) detectando cual usa tu dispositivo!
+                            I'm Agustin and I'm a JR developer and freelancer. This is my web portfolio!
+                            This same is done with NextJS; a ReactJS framework that uses html + css and javascript.
+                            I am also using Tailwind, a css framework to make things as pretty as you see them. And as a curiosity,
+                            This page will use the theme (light or dark) detecting which one uses your device!
                         </p>
                     </div>
                 </div>
