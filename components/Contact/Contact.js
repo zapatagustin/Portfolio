@@ -12,11 +12,11 @@ export default function Contact() {
             Contactame!
           </h2>
           <p className="leading-relaxed mb-5">
-            Llena esto y te contestare a la velocidad del rayo
+            Fill this out and I will answer you at the speed of light!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
-              Nombre
+              Name
             </label>
             <input
               type="text"
@@ -40,7 +40,7 @@ export default function Contact() {
             <label
               htmlFor="message"
               className="leading-7 text-sm text-gray-400">
-              Mensaje
+              Message
             </label>
             <textarea
               id="message"
@@ -51,7 +51,7 @@ export default function Contact() {
           <button
             type="submit"
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            Enviar
+            Send
           </button>
         </form>
       </div>
